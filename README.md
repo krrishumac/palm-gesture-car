@@ -81,7 +81,7 @@ The complete Arduino code is available in the repository.
 
 ---
 
-### 🎥 Demo Video
+### 🎥 Demo Video (Click on the thumbnail below 👇)
 
 [![▶️ Watch Demo](https://img.youtube.com/vi/FcT8arUpS28/0.jpg)](https://youtu.be/FcT8arUpS28)
 
