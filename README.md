@@ -1,8 +1,6 @@
 # 🚗 Palm Gesture Controlled Robot Car (Hand Following Robot)
 
-![Robot Car](demo_images/car1.jpg)
 
-### 🎥 Demo Video
 
 [![▶️ Watch Demo](https://img.youtube.com/vi/FcT8arUpS28/0.jpg)](https://youtu.be/FcT8arUpS28)
 
@@ -70,7 +68,7 @@ It is a hand-following robot car built using Arduino that moves according to the
 
 ## 🔌 Circuit Diagram
 
-![Circuit Diagram](circuit_diagram/circuit.jpg)
+![Circuit Diagram](circuit_diagram/CircuitDiagram.jpg)
 
 ---
 
