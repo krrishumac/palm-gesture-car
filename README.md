@@ -1,6 +1,6 @@
 # 🚗 Palm Gesture Controlled Robot Car (Hand Following Robot)
 
-## Demo Video (Click Here 👇🏻)
+## Demo Video
 
 [![▶️ Watch Demo](https://img.youtube.com/vi/FcT8arUpS28/0.jpg)](https://youtu.be/FcT8arUpS28)
 
