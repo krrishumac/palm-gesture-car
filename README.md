@@ -1,10 +1,18 @@
 # 🚗 Palm Gesture Controlled Robot Car (Hand Following Robot)
 
+![Robot Car](demo_images/car1.jpg)
+
+### 🎥 Demo Video
+
+[![▶️ Watch Demo](https://img.youtube.com/vi/FcT8arUpS28/0.jpg)](https://youtu.be/FcT8arUpS28)
+
+---
+
 ## 📌 Overview
 
-This project is a **gesture-free hand-following robot car** that moves based on the position of a user's hand. Unlike traditional gesture systems, it does not require any wearable device or controller.
+This project demonstrates **gesture-free human-machine interaction** using sensor-based hand tracking.
 
-The robot uses a combination of ultrasonic and IR sensors to detect hand position and direction in real-time.
+It is a hand-following robot car built using Arduino that moves according to the position of a user’s hand — without requiring any wearable device or remote control.
 
 ---
 
@@ -14,18 +22,18 @@ The robot uses a combination of ultrasonic and IR sensors to detect hand positio
 * No remote ❌
 * No accelerometer ❌
 
-✔️ Pure **sensor-based human interaction**
+✔️ Pure sensor-based control
 
 ---
 
 ## 🧠 Working Principle
 
 * The **ultrasonic sensor** detects the presence of a hand in front.
-* Two **IR sensors** detect directional input:
+* Two **IR sensors** detect direction:
 
   * Left IR → Turn Left
   * Right IR → Turn Right
-* If no hand is detected → the car stops.
+* If no hand is detected → the car stops
 
 ---
 
@@ -52,7 +60,7 @@ The robot uses a combination of ultrasonic and IR sensors to detect hand positio
 
 * Robot Car Chassis
 * DC Gear Motors (4x)
-* Wheels & Mounts
+* Wheels & Motor Mounts
 
 ### 🔋 Power
 
@@ -61,13 +69,21 @@ The robot uses a combination of ultrasonic and IR sensors to detect hand positio
 ---
 
 ## 🔌 Circuit Diagram
-![Circuit Diagram](circuit_diagram/CircuitDiagram.jpg)
+
+![Circuit Diagram](circuit_diagram/circuit.jpg)
+
+---
+
+## 🖼️ Demo Images
+
+![Car Image 1](demo_images/car1.jpg)
+![Car Image 2](demo_images/car2.jpg)
 
 ---
 
 ## 💻 Code
 
-The complete Arduino code is available in the repository.
+Arduino code is available in the `code/` directory.
 
 ---
 
@@ -81,15 +97,9 @@ The complete Arduino code is available in the repository.
 
 ---
 
-### 🎥 Demo Video (Click on the thumbnail below 👇)
-
-[![▶️ Watch Demo](https://img.youtube.com/vi/FcT8arUpS28/0.jpg)](https://youtu.be/FcT8arUpS28)
-
----
-
 ## 🧠 Technical Highlight
 
-The system prioritizes directional control using IR sensors over forward motion, ensuring precise hand-following behavior.
+The system prioritizes directional control using IR sensors over forward motion, ensuring accurate hand-following behavior.
 
 ---
 
